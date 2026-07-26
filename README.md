@@ -1,6 +1,6 @@
-# Zixuan Agent Constitution
+<img width="1366" height="768" alt="jimeng-2026-07-26-6217-创作一张高级、克制、富有思想感的横版文章封面，主题是“让 AI 不只更聪明，还能" src="https://github.com/user-attachments/assets/526e7727-9f5c-4d49-9383-766cbd591a91" />
 
-一套经过长期使用和持续调整形成的个人 AI 智能体设定。
+一套经过长期使用和持续调整形成的个人 AI 智能体设定AGENTS.md。
 
 它融合了：
 
@@ -31,6 +31,13 @@
 可以直接阅读或复制 `AGENTS.md`，根据所使用的智能体平台放入对应的全局或项目规则文件中。
 
 这是一套带有鲜明个人价值观的设定，不主张它是所有人的标准答案。
+
+codex配置方法：在左下角设置中，找到个性化
+<img width="1950" height="1214" alt="image" src="https://github.com/user-attachments/assets/0e87728e-954d-458b-ae32-9129c1f6ddff" />
+
+Workbuddy配置方法：在左下角设置中找到个性化
+<img width="1254" height="870" alt="image" src="https://github.com/user-attachments/assets/067f88fa-fe31-409f-8f43-f9640c9be4b8" />
+
 
 ## 关于命理
 
